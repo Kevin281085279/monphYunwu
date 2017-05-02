@@ -1,0 +1,11 @@
+platform:ios,'8.0'
+
+target ‘qmjjr’ do
+pod 'Masonry'
+pod 'AFNetworking', '~> 2.6.0’
+pod 'IQKeyboardManager'
+pod 'MJRefresh'
+pod 'ProgressHUD', '~> 2.3'
+pod 'MJExtension', '~> 3.0.11'
+pod 'UMessage_NOIDFA', '~> 1.5'
+end

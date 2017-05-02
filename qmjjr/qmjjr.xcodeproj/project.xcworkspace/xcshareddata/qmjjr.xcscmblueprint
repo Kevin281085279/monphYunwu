@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d2b1847b-f78d-2948-b4c7-73c7adaa7c91" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d2b1847b-f78d-2948-b4c7-73c7adaa7c91" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2DC107E8-0354-489D-9E97-AF17C186671D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d2b1847b-f78d-2948-b4c7-73c7adaa7c91" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "qmjjr",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "qmjjr.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.0.6:15368\/svn\/monph.com",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d2b1847b-f78d-2948-b4c7-73c7adaa7c91"
+    }
+  ]
+}
